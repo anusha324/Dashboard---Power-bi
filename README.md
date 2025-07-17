@@ -31,19 +31,16 @@ This project visualizes the sales performance of dairy products such as Milk, Cu
 - 📍 **Map**: Total Revenue by Location (India)
 - 📊 **Bar Chart**: Quantity Sold (liters/kg) by Product
 - 📊 **Bar Chart**: Total Revenue by Brand and Sales Channel
-- 🥧 **Donut Charts**:
-  - Sales by Channel (Retail, Wholesale, Online)
-  - Brand-wise Quantity Sold Distribution
-- 🔘 **Toggle Button**: Quantity vs Revenue (Highlight switch)
-
+- 🥧 **Donut Charts**:(filters used)
+  - Quantity Sold Distribution or revenue by Channel (Retail, Wholesale, Online)
+  - Brand-wise Quantity Sold Distribution or revenue
 
 ---
 
 ## 🔍 Key Insights
 
-- **Top Brands by Revenue**: Amul (₹14.61M), Mother Dairy (₹13.77M), Raj (₹9.56M)
-- **Top-Selling Products**: Curd (120K+), Lassi, Milk, Butter
-- **Most Active States**: Karnataka, Madhya Pradesh, Kerala
+- **Top Brands by Revenue**: Amul, Mother Dairy, Raj 
+- **Top-Selling Products**: Curd , Lassi, Milk, Butter
 - **Balanced Sales Channels**: Retail, Online, and Wholesale contribute almost equally
 
 ---
@@ -60,7 +57,11 @@ This project visualizes the sales performance of dairy products such as Milk, Cu
 
 ## 👩‍💻 Author
 
-**Anusha** – Aspiring Data Analyst | Power BI Developer  
+**Anusha** – Aspiring Data Analyst 
+
+- [LinkedIn](https://www.linkedin.com/in/anusha-m-2055672b6 )
+
+
 
 
 
